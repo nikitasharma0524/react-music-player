@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### Preview 
-Check the site on Netlify - https://fabulous-lollipop-e95f8e.netlify.app/
+Check the site on Netlify - https://react-music-wave-e95f8e.netlify.app/
 
 
 
